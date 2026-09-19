@@ -1,0 +1,18 @@
+manifests/g/GitStudioHQ/GitStudio/2.0.0/GitStudioHQ.GitStudio.installer.yaml
+  h_d4915c3a77f66e 1-29
+manifests/g/GitStudioHQ/GitStudio/2.0.0/GitStudioHQ.GitStudio.locale.en-US.yaml
+  h_d4915c3a77f66e 1-56
+manifests/g/GitStudioHQ/GitStudio/2.0.0/GitStudioHQ.GitStudio.yaml
+  h_d4915c3a77f66e 1-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "6e96abafc41304005d895fb7d6e3e2e0b9b175e1",
+  "prompts": {},
+  "humans": {
+    "h_d4915c3a77f66e": {
+      "author": "Anton Arnaudov <anton.arnaudov.me@gmail.com>"
+    }
+  }
+}
